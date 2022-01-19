@@ -11,7 +11,8 @@ There's no guarantee that anything works.
 
 * folks on M1 Macs will likely need to work out how to get the x86-64 version of stuff running under Rosetta 2. From memory, I did this by installing iTerm 2, going to Applications, get-info-ing the app and then selecting `Open using Rosetta`. I think I then went to [Homebrew](https://brew.sh) and followed the instructions there to install Homebrew, and then through Homebrew, python3.  
 
+## Data
+Note: data for the Lecture 5 sketch in data.csv comes from "weatherstats.ca based on Environment and Climate Change Canada data".
+
 ---
-
-
 
